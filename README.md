@@ -1,4 +1,4 @@
-<h3><a href="http://storm.apache.org/">Storm</a> Scripts and Projects</h3>
+<h3>Apache Storm - Scripts and Projects</h3>
 This repo contains scripts and projects related to <a href="http://storm.apache.org/">Apache Storm</a>.
 <br>
 <br><b>References:</b>
